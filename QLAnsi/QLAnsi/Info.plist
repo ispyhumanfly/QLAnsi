@@ -6,9 +6,9 @@
 	<array>
 		<dict>
 			<key>UTTypeReferenceURL</key>
-			  <string>http://blocktronics.org</string>
+			<string>http://blocktronics.org</string>
 			<key>UTTypeIdentifier</key>
-			  <string>org.blocktronics.quicklook</string>
+			<string>org.blocktronics.quicklook</string>
 			<key>UTTypeConformsTo</key>
 			<array>
 				<string>public.data</string>
@@ -19,12 +19,13 @@
 			<key>UTTypeTagSpecification</key>
 			<dict>
 				<key>public.filename-extension</key>
-					<array>
-						<string>ans</string>
-						<string>diz</string>
-						<string>asc</string>
-						<string>xb</string>
-					</array>
+				<array>
+					<string>ans</string>
+					<string>diz</string>
+					<string>asc</string>
+					<string>xb</string>
+					<string>nfo</string>
+				</array>
 			</dict>
 		</dict>
 	</array>
